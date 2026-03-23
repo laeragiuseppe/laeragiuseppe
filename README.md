@@ -26,8 +26,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laeragiuseppe&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="laeragiuseppe" height="165px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laeragiuseppe&show_icons=true&locale=en&theme=vision-friendly-dark" alt="laeragiuseppe" height="165px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glaera0x&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="glaera0x" height="165px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=glaera0x&show_icons=true&locale=en&theme=vision-friendly-dark" alt="glaera0x" height="165px" />
 </p>
 
 ---
@@ -48,5 +48,5 @@ I'm a big believer in the **Open Source** ecosystem and its power to improve the
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laeragiuseppe&label=Profile%20views&color=0e75b6&style=flat" alt="laeragiuseppe" />
+  <img src="https://komarev.com/ghpvc/?username=glaera0x&label=Profile%20views&color=0e75b6&style=flat" alt="glaera0x" />
 </p>
