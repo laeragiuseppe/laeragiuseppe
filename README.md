@@ -43,6 +43,7 @@ I'm a big believer in the **Open Source** ecosystem and its power to improve the
 
 ### 📱 Connect with me:
 <p align="left">
+<a href="mailto:glaera0x@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="10455239" /></a>
 <a href="https://linkedin.com/in/giuseppe-laera" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="giuseppe-laera" /></a>
 <a href="https://stackoverflow.com/users/10455239" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="10455239" /></a>
 </p>
